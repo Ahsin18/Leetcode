@@ -4,19 +4,6 @@ My solutions to problems I solve on [LeetCode](https://leetcode.com/), mainly us
 
 This repository is a collection of my DSA practice as I work on improving my problem-solving skills and preparing for technical interviews.
 
-## Topics
-
-- Arrays
-- Strings
-- Hashing
-- Stack & Queue
-- Linked List
-- Binary Search
-- Trees
-- Recursion
-- Dynamic Programming
-- And more...
-
 ## Language
 
 **Java**
